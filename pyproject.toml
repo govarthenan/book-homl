@@ -1,0 +1,6 @@
+[project]
+name = "book-homl"
+description = "A repo for learning the Hands on Machine Learning book by Aurelien Geron"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
